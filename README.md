@@ -1,1 +1,3 @@
 # LazyAlarm
+
+Hey guyzz..Tis is for all are a little lazy to wake up in the morning, all who set multiple alarms  and simply snooze or off them.But to off this alarm you need to solve a math question which requires you to wake up..... 
